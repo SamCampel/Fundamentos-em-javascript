@@ -1,25 +1,19 @@
-![SHARE](https://github.com/balta-io/3004/assets/965305/83e5350f-83c8-42f2-99ab-7cef6e4fc2ce)
+🌟 Wish List Interativa: HTML, CSS e JavaScript
 
-## Introdução
-Neste curso, vamos explorar os elementos fundamentais do HTML e CSS, essenciais para construir a base de qualquer aplicação web.
+Desenvolvi uma wish list (lista de desejos) interativa usando HTML, CSS e JavaScript! Este projeto foi um passo além no meu aprendizado, aplicando conceitos como:
 
-## O problema
-No mundo do desenvolvimento web, dominar HTML e CSS é fundamental. Porém, muitas vezes, os iniciantes podem se sentir sobrecarregados com a quantidade de informações disponíveis e a falta de direção clara sobre por onde começar. Este curso foi criado para resolver esse problema, fornecendo uma abordagem passo a passo e prática para aprender e dominar o HTML e CSS.
+    Manipulação do DOM para adicionar, remover e marcar itens.
 
-## O que vamos aprender?
-Durante este curso, exploraremos os princípios básicos e avançados do HTML e CSS, incluindo:
-* Estrutura e sintaxe do HTML
-* Tags e elementos essenciais
-* Estilização com CSS
-* Seletores CSS e propriedades fundamentais
-* Layouts responsivos
-* Animações e transições CSS
+    Eventos para interações do usuário (cliques, teclas, etc.).
 
-Para quem é este curso?
-Este curso destina-se a qualquer pessoa interessada em aprender a criar páginas web, desde iniciantes completos até desenvolvedores que desejam aprimorar suas habilidades em HTML e CSS. Não é necessário ter experiência prévia em programação, apenas uma vontade de aprender e explorar novos conceitos.
+    Armazenamento local (localStorage) para salvar a lista mesmo após atualizar a página.
 
-Suporte e Ferramentas
-Durante este curso, estaremos utilizando as seguintes ferramentas e tecnologias:
-* Um editor de código de sua preferência, como Visual Studio Code, Sublime Text ou Atom.
-* Um navegador web atualizado, como Google Chrome, Mozilla Firefox ou Microsoft Edge.
-* Acesso à internet para recursos adicionais e pesquisa.
+Agora, a lista permite:
+✅ Adicionar novos desejos.
+✅ Marcar itens como concluídos.
+✅ Remover itens indesejados.
+✅ Salvar automaticamente as alterações.
+
+Foi incrível ver como o JavaScript traz vida a um projeto estático!
+
+Próximos passos: integrar um backend para sincronizar a lista em diferentes dispositivos
